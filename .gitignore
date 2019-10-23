@@ -2,3 +2,7 @@
 
 # Jenkins SSH keys
 jenkinskeys
+
+# Vagrant files
+.vagrant
+*.log
